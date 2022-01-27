@@ -1,14 +1,7 @@
-# Template for Python Exercises
-This example project is written in Python, and tested with pytest.
+# 1-4 Exercise 1
 
 ### The assignment
-The tests are failing right now because the method isn't outputting the correct string. Fixing this up will make the tests green.
+Edit the file named "student.py". Create a program that adds “ing” to the end of a verb that’s input by the user.
 
-### Setup command
-`sudo -H pip3 install pytest`
-
-### Run command
-`pytest`
-
-### Notes
-- pip's install path is not included in the PATH var by default, so without installing via `sudo -H`, pytest would be unaccessible.
+## Check your work
+Select the "Actions" tab on GitHub and select your latest commit. This will show you if your exercise passes all test cases.
