@@ -1,9 +1,8 @@
 def main():
-    #your code goes here
-    x = int(input("Enter a number"))
-    y = int(input("Enter another number"))
+    #your code goes here, make sure it's indented
+    
 
-    print(x*y)
-
+    
+#Leave this code here    
 if __name__ =='__main__':
     main()
